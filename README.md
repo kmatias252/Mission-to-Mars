@@ -8,10 +8,10 @@ The purpose of Mission to Mars project was to use BeautifulSoup and Splinter to 
 
 ### Deliverable 1: Scrape High-Resolution Mars Hemisphere Images and Titles 
 
+![Screen Shot 2021-12-23 at 6 07 17 PM](https://user-images.githubusercontent.com/91925639/147387843-f22c3205-1f34-4b82-9773-389ce7f03627.png)
+
+### Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles 
 
 
-# Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles 
 
-
-
-# Deliverable 3: Add Bootstrap 3 Components 
+### Deliverable 3: Add Bootstrap 3 Components 
